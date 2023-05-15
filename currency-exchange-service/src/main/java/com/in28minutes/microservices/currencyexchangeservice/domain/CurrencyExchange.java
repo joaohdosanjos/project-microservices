@@ -19,7 +19,6 @@ public class CurrencyExchange {
 		this.from = from;
 		this.to = to;
 		this.conversionMultiple = conversionMultiple;
-		this.environment = environment;
 	}
 
 	public int getId() {
